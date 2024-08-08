@@ -1,2 +1,2 @@
 # refactored-guacamole
-3D scene understaning datasets
+3D scene understanding datasets
