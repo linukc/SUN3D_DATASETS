@@ -1,2 +1,2 @@
-# refactored-guacamole
-3D scene understanding datasets
+# SUN3D_DATASETS
+Datasets for **S**cene **UN**derstanding in **3D**.
